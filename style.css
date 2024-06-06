@@ -44,7 +44,7 @@ body {
 
 .top-banner-area .container .col-md-6 h2 span {
     background: linear-gradient(to right, #FBA24F, #FF1E1E);
-    -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
